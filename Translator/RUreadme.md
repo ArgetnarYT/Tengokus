@@ -2,7 +2,7 @@
 
 # Пример работы переводчика:
 
-![image](https://user-images.githubusercontent.com/104316740/220997807-1fd7acf7-38c2-48cc-a2e8-c6a8bc58f691.png)
+![image](https://user-images.githubusercontent.com/104316740/221018602-39917774-0900-4d7b-ae93-3782d5540c23.png)
 
 
 # Установить
